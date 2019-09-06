@@ -1,5 +1,5 @@
 ---
-title: "Loblolly"
+title: "Shiny Loblolly"
 output: ioslides_presentation
 date: 06.09.2019
 ---
